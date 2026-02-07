@@ -1,0 +1,14 @@
+Error: Update symbol U1 from 'OPL Library:XIAO-RP2040-DIP' to 'OPL Library:XIAO-RP2040-DIP': *** symbol not found ***
+Update symbol J1 from 'Connector_Generic:Conn_01x04' to 'Connector_Generic:Conn_01x04': OK
+Update symbol #PWR02 from 'power:GND' to 'power:GND': OK
+Update symbol SW3 from 'Switch:SW_Push' to 'Switch:SW_Push': OK
+Update symbol #PWR01 from 'power:GND' to 'power:GND': OK
+Update symbol SW2 from 'Switch:SW_Push' to 'Switch:SW_Push': OK
+Update symbol R1 from 'Device:R' to 'Device:R': OK
+Update symbol SW4 from 'Switch:SW_Push' to 'Switch:SW_Push': OK
+Update symbol #PWR04 from 'power:GND' to 'power:GND': OK
+Update symbol C1 from 'Device:C_Polarized' to 'Device:C_Polarized': OK
+Update symbol #PWR03 from 'power:+5V' to 'power:+5V': OK
+Update symbol D2 from 'LED:SK6812MINI' to 'LED:SK6812MINI': OK
+Update symbol SW1 from 'Switch:SW_Push' to 'Switch:SW_Push': OK
+Update symbol D1 from 'LED:SK6812MINI' to 'LED:SK6812MINI': OK
