@@ -36,19 +36,19 @@ This project includes a **custom PCB**, **KMK firmware**, and a **3D-printed cas
 
 ### 🟢 PCB Layout
 <!-- Add your PCB image here -->
-![PCB Layout](IMAGES/pcb.png)
+![PCB Layout](IMAGES/final_pcb.png)
 
 ---
 
 ### 🔵 Schematic
 <!-- Add your schematic image here -->
-![Schematic](IMAGES/schematic.png)
+![Schematic](IMAGES/final_schemantic.png)
 
 ---
 
 ### 🟣 Final 3D Model (Fusion 360)
 <!-- Add your Fusion 360 render here -->
-![Final 3D Model](IMAGES/final_fusion.png)
+![Final 3D Model](IMAGES/3d_pic.png)
 
 ---
 
