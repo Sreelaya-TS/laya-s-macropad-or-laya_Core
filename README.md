@@ -14,7 +14,6 @@ This project includes a **custom PCB**, **KMK firmware**, and a **3D-printed cas
 - KMK (CircuitPython-based) firmware  
 - Custom PCB designed in KiCad  
 - 3D printed enclosure (Fusion 360)  
-- Compact, beginner-friendly design  
 
 ---
 
