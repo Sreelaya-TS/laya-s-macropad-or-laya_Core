@@ -1,13 +1,12 @@
-# Laya Core – 4-Key OLED Macropad ⌨️🤖
+# Laya Core – 4-Key OLED Macropad 
 
-**Laya Core** is a compact **4-key custom macropad** built using the **XIAO RP2040**, powered by **KMK firmware**, and enhanced with an **OLED display** for visual feedback.  
-It is designed for productivity shortcuts like screenshots, copy-paste, window control, and custom macros.
+**honestly this was my first project and this would be my 3rd edit i have added a oled that displays a cute pic**
 
-This project includes a **custom PCB**, **KMK firmware**, and a **3D-printed case**, making it a complete end-to-end hardware build.
+This project includes a **custom PCB**, **KMK firmware**, and a **3D-printed case**.
 
 ---
 
-## ✨ Features
+##PARTS USED
 
 - 4 programmable mechanical keys  
 - XIAO RP2040 microcontroller  
@@ -19,13 +18,11 @@ This project includes a **custom PCB**, **KMK firmware**, and a **3D-printed cas
 
 ---
 
-## 🧠 Firmware
+## Firmware
 
 - Written using **KMK firmware**
 - Supports:
-  - Custom keyboard shortcuts (screenshots, copy, paste, etc.)
-  - Layer-based key mapping
-  - Macro support
+  - Custom keyboard shortcuts i just have added (screenshots, copy, paste, etc.)
   - OLED bitmap display (cute robot graphic)
 
 > Firmware source code is available in this repository.
@@ -56,21 +53,12 @@ This project includes a **custom PCB**, **KMK firmware**, and a **3D-printed cas
 
 - OLED communicates via **I2C**
 - Resolution: **128 × 64**
-- Driver: **SSD1306**
-- Displays a custom bitmap (robot illustration)
-
-### Display behavior
-- Currently configured as **always-on**
-- Can be upgraded to:
-  - Key-triggered display
-  - Layer indicator
-  - Simple animations
-
+- Displays a custom bitmap 
 ---
 
 ## 🧩 Bill of Materials (BOM)
 
-> 💡 Prices are approximate and may vary depending on supplier.
+> Prices are approximate 
 
 | Sl No | Component                              | Quantity | Approx Price (₹) | Total (₹) |
 |-----:|---------------------------------------|---------:|-----------------:|----------:|
@@ -83,7 +71,7 @@ This project includes a **custom PCB**, **KMK firmware**, and a **3D-printed cas
 | 7    | Reset Button (SMD / Through-hole)     | 1 | 20 | 20 |
 | 8    | USB Type-C Cable                      | 1 | 100 | 100 |
 | 9    | 3D Printed Case                      | 1 | 250 | 250 |
-| 10   | Screws / Spacers                     | As required | 50 | 50 |
+| 10   | Screws / Spacers                     | 4 | 50 | 50 |
 
 ### 💰 **Estimated Total Cost:** **₹2,020**
 
@@ -99,21 +87,15 @@ This project includes a **custom PCB**, **KMK firmware**, and a **3D-printed cas
 
 ---
 
-## 🚀 Future Improvements
+## rest i would like to add
 
-- OLED animations
-- Multiple layers with visual indicators
-- RGB underglow
 - Rotary encoder support
-- Configurable display modes
+
 
 ---
 
 ## 💙 Author
 
 **Sreelaya TS**  
-Electronics • Embedded Systems • Custom Keyboards  
-
 ---
 
-⭐ If you like this project, consider starring the repository!
