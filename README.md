@@ -1,6 +1,7 @@
 # Laya Core – 4-Key OLED Macropad 
 
 **honestly this was my first project and this would be my 3rd edit i have added a oled that displays a cute pic**
+and i already have a 128x64 OLED so i wouldn't buy that
 
 This project includes a **custom PCB**, **KMK firmware**, and a **3D-printed case**.
 
@@ -65,7 +66,6 @@ This project includes a **custom PCB**, **KMK firmware**, and a **3D-printed cas
 | 1    | XIAO RP2040 Microcontroller           | 1 | 650 | 650 |
 | 2    | Mechanical Switches (MX compatible)   | 4 | 50 | 200 |
 | 3    | Keycaps                               | 4 | 40 | 160 |
-| 4    | OLED Display (SSD1306, 128×64, I2C)   | 1 | 250 | 250 |
 | 5    | Diodes (1N4148 / SMD)                 | 4 | 5 | 20 |
 | 6    | Custom PCB                            | 1 | 300 | 300 |
 | 7    | Reset Button (SMD / Through-hole)     | 1 | 20 | 20 |
@@ -73,7 +73,7 @@ This project includes a **custom PCB**, **KMK firmware**, and a **3D-printed cas
 | 9    | 3D Printed Case                       | 1 | 250 | 250 |
 | 10   | M3 × 10 mm self-tapping screws        | 4 | 50 | 50 |
 
-### 💰 **Estimated Total Cost:** **₹2,020**
+### **Estimated Total Cost:** **₹1,750**
 
 ---
 
