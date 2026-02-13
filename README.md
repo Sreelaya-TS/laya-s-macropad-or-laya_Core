@@ -13,7 +13,8 @@ This project includes a **custom PCB**, **KMK firmware**, and a **3D-printed cas
 - OLED display (I2C, 128×64)  
 - KMK (CircuitPython-based) firmware  
 - Custom PCB designed in KiCad  
-- 3D printed enclosure (Fusion 360)  
+- 3D printed enclosure (Fusion 360)
+- 4 × M3 × 10 mm self-tapping screws  
 
 ---
 
@@ -69,8 +70,8 @@ This project includes a **custom PCB**, **KMK firmware**, and a **3D-printed cas
 | 6    | Custom PCB                            | 1 | 300 | 300 |
 | 7    | Reset Button (SMD / Through-hole)     | 1 | 20 | 20 |
 | 8    | USB Type-C Cable                      | 1 | 100 | 100 |
-| 9    | 3D Printed Case                      | 1 | 250 | 250 |
-| 10   | Screws / Spacers                     | 4 | 50 | 50 |
+| 9    | 3D Printed Case                       | 1 | 250 | 250 |
+| 10   | M3 × 10 mm self-tapping screws        | 4 | 50 | 50 |
 
 ### 💰 **Estimated Total Cost:** **₹2,020**
 
@@ -83,14 +84,6 @@ This project includes a **custom PCB**, **KMK firmware**, and a **3D-printed cas
 - **KMK Firmware** – keyboard firmware  
 - **CircuitPython**  
 - **Git & GitHub**
-
----
-
-## rest i would like to add
-
-- Rotary encoder support
-
-
 ---
 
 ## 💙 Author
