@@ -59,22 +59,7 @@ This project includes a **custom PCB**, **KMK firmware**, and a **3D-printed cas
 
 ## 🧩 Bill of Materials (BOM)
 
-> Prices are approximate 
-
-| Sl No | Component                              | Quantity | Approx Price (₹) | Total (₹) |
-|-----:|---------------------------------------|---------:|-----------------:|----------:|
-| 1    | XIAO RP2040 Microcontroller           | 1 | 650 | 650 |
-| 2    | Mechanical Switches (MX compatible)   | 4 | 50 | 200 |
-| 3    | Keycaps                               | 4 | 40 | 160 |
-| 5    | Diodes (1N4148 / SMD)                 | 4 | 5 | 20 |
-| 6    | Custom PCB                            | 1 | 300 | 300 |
-| 7    | Reset Button (SMD / Through-hole)     | 1 | 20 | 20 |
-| 8    | USB Type-C Cable                      | 1 | 100 | 100 |
-| 9    | 3D Printed Case                       | 1 | 250 | 250 |
-| 10   | M3 × 10 mm self-tapping screws        | 4 | 50 | 50 |
-
-### **Estimated Total Cost:** **₹1,750**
-
+![you can find the BOM](bom.csv)
 ---
 
 ## 🛠️ Tools Used
