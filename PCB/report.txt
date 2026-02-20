@@ -1,24 +1,12 @@
-Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical'.
-Info: Processing symbol 'SW1:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
-Info: Processing symbol 'SW2:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
-Info: Processing symbol 'SW3:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
-Info: Processing symbol 'SW4:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
-Info: Processing symbol 'U1:OPL Lib:XIAO-RP2040-DIP'.
-Info: Total warnings: 0, errors: 9.
-Reconnected U1 pin 13 from Net-(J1-Pin_2) to GND.
-Reconnected U1 pin 13 from Net-(J1-Pin_2) to GND.
-Removed unused net Net-(J1-Pin_2).
-
-
-Error: J1 pad 2 not found in Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical.
-Error: J1 pad 3 not found in Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical.
-Error: J1 pad 4 not found in Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical.
-Error: U1 pad 16 not found in OPL Lib:XIAO-RP2040-DIP.
-Error: U1 pad 20 not found in OPL Lib:XIAO-RP2040-DIP.
-Error: U1 pad 18 not found in OPL Lib:XIAO-RP2040-DIP.
-Error: U1 pad 17 not found in OPL Lib:XIAO-RP2040-DIP.
-Error: U1 pad 19 not found in OPL Lib:XIAO-RP2040-DIP.
-Error: U1 pad 15 not found in OPL Lib:XIAO-RP2040-DIP.
-
-
-Info: Total warnings: 0, errors: 9.
+Plotted to 'C:\Users\admin\OneDrive\Desktop\macropad\laya-s-macropad-or-laya_Core\PCB\gerber\laya's macropad-F_Cu.gbr'.
+Plotted to 'C:\Users\admin\OneDrive\Desktop\macropad\laya-s-macropad-or-laya_Core\PCB\gerber\laya's macropad-B_Cu.gbr'.
+Plotted to 'C:\Users\admin\OneDrive\Desktop\macropad\laya-s-macropad-or-laya_Core\PCB\gerber\laya's macropad-F_Paste.gbr'.
+Plotted to 'C:\Users\admin\OneDrive\Desktop\macropad\laya-s-macropad-or-laya_Core\PCB\gerber\laya's macropad-B_Paste.gbr'.
+Plotted to 'C:\Users\admin\OneDrive\Desktop\macropad\laya-s-macropad-or-laya_Core\PCB\gerber\laya's macropad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\admin\OneDrive\Desktop\macropad\laya-s-macropad-or-laya_Core\PCB\gerber\laya's macropad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\admin\OneDrive\Desktop\macropad\laya-s-macropad-or-laya_Core\PCB\gerber\laya's macropad-F_Mask.gbr'.
+Plotted to 'C:\Users\admin\OneDrive\Desktop\macropad\laya-s-macropad-or-laya_Core\PCB\gerber\laya's macropad-B_Mask.gbr'.
+Plotted to 'C:\Users\admin\OneDrive\Desktop\macropad\laya-s-macropad-or-laya_Core\PCB\gerber\laya's macropad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\admin\OneDrive\Desktop\macropad\laya-s-macropad-or-laya_Core\PCB\gerber\laya's macropad-job.gbrjob'.
+Info: Done.
+Info: Done.

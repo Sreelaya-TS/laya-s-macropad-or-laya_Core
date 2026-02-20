@@ -321,6 +321,145 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "ScottoKeebs:OLED_128x32"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "OLED_128x32"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "ScottoKeebs_Components:OLED_128x32"
+				(at 0 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "OLED_128x32_0_1"
+				(rectangle
+					(start 0 5.08)
+					(end 15.24 -5.08)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "OLED_128x32_1_1"
+				(pin bidirectional line
+					(at -2.54 3.81 0)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input clock
+					(at -2.54 1.27 0)
+					(length 2.54)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -2.54 -1.27 0)
+					(length 2.54)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -2.54 -3.81 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "ScottoKeebs:Placeholder_Diode"
 			(pin_numbers
 				(hide yes)
@@ -852,145 +991,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "symbs:OLED_128x64"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 -11.43 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "OLED_128x64"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "ScottoKeebs_Components:OLED_128x64"
-				(at 0 -13.97 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 1.27 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "OLED_128x64_0_1"
-				(rectangle
-					(start 10.16 -10.16)
-					(end -10.16 0)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-			)
-			(symbol "OLED_128x64_1_1"
-				(pin power_in line
-					(at -3.81 2.54 270)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at -1.27 2.54 270)
-					(length 2.54)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input clock
-					(at 1.27 2.54 270)
-					(length 2.54)
-					(name "SCL"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at 3.81 2.54 270)
-					(length 2.54)
-					(name "SDA"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 	)
 	(junction
 		(at 177.8 95.25)
@@ -1154,7 +1154,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 71.12) (xy 156.21 72.39)
+			(xy 152.4 69.85) (xy 152.4 72.39)
 		)
 		(stroke
 			(width 0)
@@ -1464,7 +1464,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 72.39) (xy 158.75 72.39)
+			(xy 152.4 72.39) (xy 158.75 72.39)
 		)
 		(stroke
 			(width 0)
@@ -2227,7 +2227,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 156.21 71.12 0)
+		(at 152.4 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2236,7 +2236,7 @@
 		(fields_autoplaced yes)
 		(uuid "e2054b91-080d-4c66-8d56-6dcd46a08017")
 		(property "Reference" "#FLG01"
-			(at 156.21 69.215 0)
+			(at 152.4 67.945 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2245,7 +2245,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 156.21 66.04 0)
+			(at 152.4 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2253,7 +2253,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 156.21 71.12 0)
+			(at 152.4 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2262,7 +2262,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 156.21 71.12 0)
+			(at 152.4 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2271,7 +2271,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 156.21 71.12 0)
+			(at 152.4 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2292,17 +2292,17 @@
 		)
 	)
 	(symbol
-		(lib_id "symbs:OLED_128x64")
-		(at 166.37 46.99 180)
+		(lib_id "ScottoKeebs:OLED_128x32")
+		(at 166.37 46.99 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e73fd1d2-c258-4c44-aca2-35aca9d1a1f2")
+		(uuid "e8d8dcb0-6d08-416f-947f-9e921ff9bc8d")
 		(property "Reference" "J1"
-			(at 177.8 40.6399 0)
+			(at 172.72 38.0999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2310,8 +2310,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "OLED_128x64"
-			(at 177.8 43.1799 0)
+		(property "Value" "OLED_128x32"
+			(at 172.72 40.6399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2319,8 +2319,8 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Components:OLED_128x64"
-			(at 166.37 33.02 0)
+		(property "Footprint" "ScottoKeebs_Components:OLED_128x32"
+			(at 157.48 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2329,7 +2329,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 46.99 90)
+			(at 165.1 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2346,17 +2346,17 @@
 				(hide yes)
 			)
 		)
-		(pin "2"
-			(uuid "e50fd864-89d1-4798-baab-76fab923583a")
+		(pin "4"
+			(uuid "f893115e-8bb6-44ad-b7bd-0c9ffbd0a194")
 		)
 		(pin "3"
-			(uuid "4398fcd9-98ca-4b1b-bdea-b79e727826a2")
+			(uuid "1298dfbb-b8fc-46ba-8f5d-b879a5792f4b")
+		)
+		(pin "2"
+			(uuid "8c68b23c-e8f1-4bf7-9629-2ef1aba147d4")
 		)
 		(pin "1"
-			(uuid "5c91714a-55b4-4631-8d7b-d1755e2c877d")
-		)
-		(pin "4"
-			(uuid "2d2e448a-aca6-437d-8b8c-48e2c5b395c5")
+			(uuid "e858054e-c099-4a65-b518-58c1d7bb8b6f")
 		)
 		(instances
 			(project ""
