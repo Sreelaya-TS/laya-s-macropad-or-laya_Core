@@ -1,7 +1,7 @@
 # Laya Core – 4-Key OLED Macropad 
 
-**honestly this was my first project and this would be my 3rd edit i have added a oled that displays a cute pic**
-and i already have a 128x64 OLED so i wouldn't buy that
+**Honestly this was my first hardware project and this would be my 3rd edit I have added a oled that displays a cute pic**
+I made this for fun and exposure to design my own pcb overall the project was fun to make and I had my good time figuring out and learning how a keyboard actualy works from yt videos, documentations and github repos etc. and for this project since I knew python already I have used kmk firmware and all the keys r directly connected to mcu 
 
 This project includes a **custom PCB**, **KMK firmware**, and a **3D-printed case**.
 
