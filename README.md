@@ -40,7 +40,7 @@ This project includes a **custom PCB**, **KMK firmware**, and a **3D-printed cas
 
 ### 🔵 Schematic
 <!-- Add your schematic image here -->
-![Schematic](IMAGES/final_schemantic.png)
+![Schematic](IMAGES/schemantic.png)
 
 ---
 
